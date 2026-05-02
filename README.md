@@ -7,8 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/Shridhigupta13/Dsa/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Shridhigupta13/Dsa/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Shridhigupta13/Dsa/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
