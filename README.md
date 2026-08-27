@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Shridhigupta13/Dsa/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Shridhigupta13/Dsa/tree/master/0078-subsets) |
+| [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,8 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shridhigupta13/Dsa/tree/master/0078-subsets) |
+| [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shridhigupta13/Dsa/tree/master/0078-subsets) |
+| [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
