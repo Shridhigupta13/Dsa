@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shridhigupta13/Dsa/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Shridhigupta13/Dsa/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/Shridhigupta13/Dsa/tree/master/0091-decode-ways) |
 ## Greedy
@@ -63,9 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shridhigupta13/Dsa/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Shridhigupta13/Dsa/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Shridhigupta13/Dsa/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shridhigupta13/Dsa/tree/master/0002-add-two-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shridhigupta13/Dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
