@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shridhigupta13/Dsa/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Shridhigupta13/Dsa/tree/master/0078-subsets) |
 | [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Shridhigupta13/Dsa/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/Shridhigupta13/Dsa/tree/master/0091-decode-ways) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0063-unique-paths-ii) |
 | [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Hamiltonian Path
 |  |
 | ------- |
