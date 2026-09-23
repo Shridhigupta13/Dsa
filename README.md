@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shridhigupta13/Dsa/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Shridhigupta13/Dsa/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Shridhigupta13/Dsa/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Shridhigupta13/Dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shridhigupta13/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Shridhigupta13/Dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shridhigupta13/Dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
