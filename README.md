@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Shridhigupta13/Dsa/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Shridhigupta13/Dsa/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Shridhigupta13/Dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Shridhigupta13/Dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shridhigupta13/Dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shridhigupta13/Dsa/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Shridhigupta13/Dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
 | [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
 ## Matrix
