@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shridhigupta13/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shridhigupta13/Dsa/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/Shridhigupta13/Dsa/tree/master/0091-decode-ways) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shridhigupta13/Dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Trie
 |  |
 | ------- |
@@ -139,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Stack
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shridhigupta13/Dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shridhigupta13/Dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
