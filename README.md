@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Shridhigupta13/Dsa/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Shridhigupta13/Dsa/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shridhigupta13/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shridhigupta13/Dsa/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/Shridhigupta13/Dsa/tree/master/0091-decode-ways) |
 | [0678-valid-parenthesis-string](https://github.com/Shridhigupta13/Dsa/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shridhigupta13/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shridhigupta13/Dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Trie
 |  |
@@ -155,11 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Shridhigupta13/Dsa/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shridhigupta13/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shridhigupta13/Dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Shridhigupta13/Dsa/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shridhigupta13/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shridhigupta13/Dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Heap (Priority Queue)
 |  |
