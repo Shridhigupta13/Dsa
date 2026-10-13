@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shridhigupta13/Dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Shridhigupta13/Dsa/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shridhigupta13/Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shridhigupta13/Dsa/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Shridhigupta13/Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shridhigupta13/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shridhigupta13/Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shridhigupta13/Dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shridhigupta13/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shridhigupta13/Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
