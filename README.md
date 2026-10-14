@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0518-coin-change-ii) |
 | [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shridhigupta13/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Shridhigupta13/Dsa/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shridhigupta13/Dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0518-coin-change-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shridhigupta13/Dsa/tree/master/0678-valid-parenthesis-string) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Shridhigupta13/Dsa/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shridhigupta13/Dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0063-unique-paths-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Shridhigupta13/Dsa/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shridhigupta13/Dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
