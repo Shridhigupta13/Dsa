@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shridhigupta13/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Shridhigupta13/Dsa/tree/master/1937-maximum-number-of-points-with-cost) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shridhigupta13/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shridhigupta13/Dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shridhigupta13/Dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Shridhigupta13/Dsa/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shridhigupta13/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shridhigupta13/Dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shridhigupta13/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shridhigupta13/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shridhigupta13/Dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shridhigupta13/Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
