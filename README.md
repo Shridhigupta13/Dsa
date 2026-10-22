@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shridhigupta13/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Shridhigupta13/Dsa/tree/master/1937-maximum-number-of-points-with-cost) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shridhigupta13/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shridhigupta13/Dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shridhigupta13/Dsa/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Shridhigupta13/Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shridhigupta13/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shridhigupta13/Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
