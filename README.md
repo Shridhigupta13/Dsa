@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shridhigupta13/Dsa/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Shridhigupta13/Dsa/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Shridhigupta13/Dsa/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Shridhigupta13/Dsa/tree/master/0066-plus-one) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shridhigupta13/Dsa/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Shridhigupta13/Dsa/tree/master/0078-subsets) |
 | [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
