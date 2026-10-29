@@ -2,9 +2,7 @@ import java.util.*;
 
 class Solution {
     public int[] smallestRange(List<List<Integer>> nums) {
-        PriorityQueue<int[]> pq = new PriorityQueue<>(
-            (a, b) -> Integer.compare(a[0], b[0])
-        );
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> Integer.compare(a[0], b[0]));
 
         int max = Integer.MIN_VALUE;
         int start = 0, end = Integer.MAX_VALUE;
