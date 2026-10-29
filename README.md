@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shridhigupta13/Dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0518-coin-change-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0518-coin-change-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shridhigupta13/Dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shridhigupta13/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shridhigupta13/Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shridhigupta13/Dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shridhigupta13/Dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shridhigupta13/Dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Dynamic Programming
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shridhigupta13/Dsa/tree/master/0055-jump-game) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shridhigupta13/Dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/Shridhigupta13/Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shridhigupta13/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shridhigupta13/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shridhigupta13/Dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shridhigupta13/Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shridhigupta13/Dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shridhigupta13/Dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shridhigupta13/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shridhigupta13/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shridhigupta13/Dsa/tree/master/3536-maximum-product-of-two-digits) |
@@ -210,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shridhigupta13/Dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shridhigupta13/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
