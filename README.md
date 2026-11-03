@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shridhigupta13/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shridhigupta13/Dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2574-left-and-right-sum-differences](https://github.com/Shridhigupta13/Dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shridhigupta13/Dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Shridhigupta13/Dsa/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shridhigupta13/Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -264,4 +265,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shridhigupta13/Dsa/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Shridhigupta13/Dsa/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Shridhigupta13/Dsa/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
