@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shridhigupta13/Dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shridhigupta13/Dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shridhigupta13/Dsa/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Shridhigupta13/Dsa/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Shridhigupta13/Dsa/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Shridhigupta13/Dsa/tree/master/0322-coin-change) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shridhigupta13/Dsa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Shridhigupta13/Dsa/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Shridhigupta13/Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shridhigupta13/Dsa/tree/master/2574-left-and-right-sum-differences) |
