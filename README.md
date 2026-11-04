@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shridhigupta13/Dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shridhigupta13/Dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shridhigupta13/Dsa/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shridhigupta13/Dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shridhigupta13/Dsa/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
@@ -156,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shridhigupta13/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shridhigupta13/Dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Shridhigupta13/Dsa/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shridhigupta13/Dsa/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shridhigupta13/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shridhigupta13/Dsa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Shridhigupta13/Dsa/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Shridhigupta13/Dsa/tree/master/1480-running-sum-of-1d-array) |
