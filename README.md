@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shridhigupta13/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shridhigupta13/Dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shridhigupta13/Dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [2409-count-days-spent-together](https://github.com/Shridhigupta13/Dsa/tree/master/2409-count-days-spent-together) |
 ## Trie
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shridhigupta13/Dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/Shridhigupta13/Dsa/tree/master/0728-self-dividing-numbers) |
 | [2235-add-two-integers](https://github.com/Shridhigupta13/Dsa/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Shridhigupta13/Dsa/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shridhigupta13/Dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
