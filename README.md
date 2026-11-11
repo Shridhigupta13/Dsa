@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shridhigupta13/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shridhigupta13/Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shridhigupta13/Dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Shridhigupta13/Dsa/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Shridhigupta13/Dsa/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shridhigupta13/Dsa/tree/master/3536-maximum-product-of-two-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shridhigupta13/Dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
