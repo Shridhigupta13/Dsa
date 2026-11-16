@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shridhigupta13/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shridhigupta13/Dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shridhigupta13/Dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shridhigupta13/Dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shridhigupta13/Dsa/tree/master/2409-count-days-spent-together) |
 ## Trie
 |  |
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Shridhigupta13/Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shridhigupta13/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Shridhigupta13/Dsa/tree/master/2574-left-and-right-sum-differences) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shridhigupta13/Dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
