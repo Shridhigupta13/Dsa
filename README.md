@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shridhigupta13/Dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shridhigupta13/Dsa/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Shridhigupta13/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Shridhigupta13/Dsa/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Shridhigupta13/Dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Shridhigupta13/Dsa/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/Shridhigupta13/Dsa/tree/master/0091-decode-ways) |
+| [0300-longest-increasing-subsequence](https://github.com/Shridhigupta13/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shridhigupta13/Dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shridhigupta13/Dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0518-coin-change-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0518-coin-change-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shridhigupta13/Dsa/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Shridhigupta13/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shridhigupta13/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shridhigupta13/Dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shridhigupta13/Dsa/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
