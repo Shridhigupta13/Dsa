@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shridhigupta13/Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shridhigupta13/Dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shridhigupta13/Dsa/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shridhigupta13/Dsa/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Trie
 |  |
 | ------- |
