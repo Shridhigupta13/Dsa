@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shridhigupta13/Dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0518-coin-change-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0518-coin-change-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shridhigupta13/Dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0704-binary-search](https://github.com/Shridhigupta13/Dsa/tree/master/0704-binary-search) |
 | [0740-delete-and-earn](https://github.com/Shridhigupta13/Dsa/tree/master/0740-delete-and-earn) |
 | [0980-unique-paths-iii](https://github.com/Shridhigupta13/Dsa/tree/master/0980-unique-paths-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shridhigupta13/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Shridhigupta13/Dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/Shridhigupta13/Dsa/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shridhigupta13/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
