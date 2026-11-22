@@ -1,34 +1,18 @@
 class Solution {
     public int maximumCount(int[] nums) {
         int n = nums.length;
-        int lo =0;
-        int hi = n-1;
-        int posinteger = n;
-        int neginteger =n;
-
-         while(lo <= hi){
-            int mid = (lo+hi)/2;
-            if(nums[mid] >= 0){
-                posinteger = mid;
-                hi = mid -1;
+        int positive = 0;
+        int negative = 0;
+        for(int i=0; i<n;  i++){
+            if(nums[i] > 0){
+                positive++;
             }
             else{
-                lo = mid +1;
+                if(nums[i] < 0){
+                    negative++;
+                }
             }
-         }
-
-         lo =0;
-         hi = n-1;
-         while(lo <= hi){
-            int mid = (lo+hi)/2;
-            if(nums[mid] > 0){
-                neginteger = mid;
-                hi = mid -1;
-            }
-            else{
-                lo = mid +1;
-            }
-         }
-         return Math.max(posinteger, n-neginteger);
+        }
+        return Math.max(positive , negative);
     }
 }
