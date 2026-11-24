@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shridhigupta13/Dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0518-coin-change-ii](https://github.com/Shridhigupta13/Dsa/tree/master/0518-coin-change-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shridhigupta13/Dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Shridhigupta13/Dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Shridhigupta13/Dsa/tree/master/0704-binary-search) |
 | [0740-delete-and-earn](https://github.com/Shridhigupta13/Dsa/tree/master/0740-delete-and-earn) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shridhigupta13/Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
