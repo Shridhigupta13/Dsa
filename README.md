@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shridhigupta13/Dsa/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Shridhigupta13/Dsa/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Shridhigupta13/Dsa/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Shridhigupta13/Dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shridhigupta13/Dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Shridhigupta13/Dsa/tree/master/0368-largest-divisible-subset) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shridhigupta13/Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shridhigupta13/Dsa/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shridhigupta13/Dsa/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shridhigupta13/Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shridhigupta13/Dsa/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Shridhigupta13/Dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shridhigupta13/Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shridhigupta13/Dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
