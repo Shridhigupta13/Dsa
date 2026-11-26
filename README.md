@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shridhigupta13/Dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shridhigupta13/Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shridhigupta13/Dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Shridhigupta13/Dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shridhigupta13/Dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Shridhigupta13/Dsa/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Shridhigupta13/Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shridhigupta13/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Shridhigupta13/Dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shridhigupta13/Dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shridhigupta13/Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Shridhigupta13/Dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Backtracking
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shridhigupta13/Dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shridhigupta13/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shridhigupta13/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shridhigupta13/Dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shridhigupta13/Dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shridhigupta13/Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
